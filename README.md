@@ -36,4 +36,6 @@ This app uses Clean Architecture with MVVM.
 3. Add Gun Buddy Directory
 4. Add Unit Tests!!
 
+Huge thanks to [Philipp Lackner](https://github.com/philipplackner) for his awesome tutorial on this matter!
+
 Pull Requests are always welcome! :)
